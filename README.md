@@ -12,7 +12,10 @@ An spatial image pyramid is computed for the input image and is forward-passed t
 
 ![](https://media.giphy.com/media/fwYVk1ZiC0VuMTlDPR/giphy.gif)
 ![](https://github.com/danaitri/Object-Detection-with-caffe/blob/master/giphy-downsized-large.gif)
-![](https://github.com/danaitri/Object-Detection-with-caffe/blob/master/1*UtfPTLB53cR8EathGBOT2Q.jpeg)
+
+<p align="center">
+<img  src="https://github.com/danaitri/Object-Detection-with-caffe/blob/master/1*UtfPTLB53cR8EathGBOT2Q.jpeg">
+</p>
 
 
 [1]. Danai Triantafyllidou, Paraskevi Nousi, Anastasios Tefas:
