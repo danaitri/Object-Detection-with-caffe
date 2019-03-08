@@ -10,6 +10,11 @@ An spatial image pyramid is computed for the input image and is forward-passed t
 <img width="999" height="160" src="https://github.com/danaitri/Object-Detection-with-caffe/blob/master/canvas.png">
 </p>
 
+<iframe width="1280" height="528" src="https://www.youtube.com/embed/BxU1MOYiL3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=BxU1MOYiL3Y)
+
 [1]. Danai Triantafyllidou, Paraskevi Nousi, Anastasios Tefas:
 Fast Deep Convolutional Face Detection in the Wild Exploiting Hard Sample Mining. Big Data Research 11: 65-76 (2018)
 
