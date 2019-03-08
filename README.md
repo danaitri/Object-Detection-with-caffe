@@ -11,6 +11,7 @@ An spatial image pyramid is computed for the input image and is forward-passed t
 </p>
 
 ![](https://media.giphy.com/media/fwYVk1ZiC0VuMTlDPR/giphy.gif)
+
 ![](https://media.giphy.com/media/3rZTGdVIM8FpPWxqx0/giphy.gif)
 
 [1]. Danai Triantafyllidou, Paraskevi Nousi, Anastasios Tefas:
